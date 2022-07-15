@@ -1,13 +1,13 @@
 <h1 align="center">Hello there 👋, i'm Hugo Milesi</h1>
 <h3 align="center">passionate with data science and doing things with code.</h3>
 
-- 🌱 I’m currently learning **C++, Machine Learning**
+- 🌱 I’m currently learning **C++, Machine Learning**.
 
-- 👯 I’m looking to collaborate on **Anything**
+- 👯 I’m looking to collaborate on **Anything**.
 
-- 💬 Ask something related to **python, django, selenium**
+- 💬 Ask something related to **python, django, selenium**.
 
-- 📫 How to reach me **hugogmilesi@gmail.com**
+- 📫 How to reach me: **hugogmilesi@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
