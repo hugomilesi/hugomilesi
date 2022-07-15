@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, i'm Hugo Milesi</h1>
 <h3 align="center">passionate with data science and doing things with code.</h3>
 
-- 🌱 I’m currently learning **C++, Machine Learning**.
+- 🌱 I’m currently learning **C++ and Machine Learning**.
 
 - 👯 I’m looking to collaborate on **Anything**.
 
