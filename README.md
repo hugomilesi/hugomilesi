@@ -1,6 +1,20 @@
 <h1 align="center">Hello there 👋, i'm Hugo Milesi</h1>
 <h3 align="center">passionate with data science and doing things with code.</h3>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class DataScientist:
+    def __init__(self):
+        self.name = "Hugo Milesi"
+        self.role = "Data Scientist"
+        self.language_spoken = ["pt_BR", "en_US"]
+    def greetings(self):
+        print("A passionate with data science and doing things with code.Thanks for dropping by ^^")
+me = DataScientist()
+me.greetings()
+```
+
 - 🌱 I’m currently learning **C++ and Machine Learning**.
 
 - 👯 I’m looking to collaborate on **Anything**.
