@@ -1,7 +1,5 @@
 <h1 align="center">Hello there 👋, i'm Hugo Milesi</h1>
-<h3 align="center">passionate with data science and technologies in general</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugomilesi" alt="hugomilesi" /></a> </p>
+<h3 align="center">passionate with data science and doing things with code.</h3>
 
 - 🌱 I’m currently learning **C++, Machine Learning**
 
